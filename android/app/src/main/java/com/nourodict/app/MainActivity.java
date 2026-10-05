@@ -1,4 +1,4 @@
-package com.sntg.dictionary;
+package com.nourodict.app;
 
 import android.os.Bundle;
 import android.webkit.JavascriptInterface;
